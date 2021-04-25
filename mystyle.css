@@ -76,7 +76,7 @@ header.myhead .overlay {
   opacity: 0.0;
 }
 #design1 {
-  background: url(Udacity_P1\img\Background.jpg)right bottom no-repeat, url(Udacity_P1\img\Background2.jpg) left top repeat;
+  background: url(Background.jpg)right bottom no-repeat, url(Background2.jpg) left top repeat;
   padding: 15px;
   border: 10px solid transparent;
   font-family: "Arial";
